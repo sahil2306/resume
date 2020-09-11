@@ -1,0 +1,53 @@
+
+        #top{
+            background: url('../img/img.jpg') no-repeat fixed;
+            background-size: cover;
+            height: 600px;
+            position: relative;
+        }
+        #con{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); 
+        }
+        .navtext{
+            font-size: larger;
+        }
+
+        .navbar-brand {
+            padding: 0 10px;
+            height: 50px;
+            line-height: 50px;
+        }
+        
+        .text_head{
+            color:#353a40;
+        }
+        .text_head:hover{
+            background-color: #ebe6e6;
+        }
+        .row:hover{
+            background-color: #ebe6e6;
+        }
+        .row1:hover{
+            background-color: #353a40;
+        }
+        .footer_text{
+            color: rgb(133, 127, 127);
+            font-size: large;
+        }
+        .footer_text:hover{
+            color:rgb(209, 203, 203);
+        }
+        a{
+            color: rgb(133, 127, 127);
+            font-size: large;
+        }
+        a:hover{
+            color:rgb(209, 203, 203);
+        }
+          
+          
+          
+          
