@@ -4,6 +4,7 @@
             background-size: cover;
             height: 600px;
             position: relative;
+            border-radius: 0px;
         }
         #con{
             position: absolute;
